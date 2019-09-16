@@ -1,0 +1,3 @@
+/mnt/d/pcl/NANCleanPCD/CMakeFiles/rebuild_cache.dir
+/mnt/d/pcl/NANCleanPCD/CMakeFiles/pcd2off.dir
+/mnt/d/pcl/NANCleanPCD/CMakeFiles/edit_cache.dir
